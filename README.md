@@ -33,6 +33,6 @@ const stack = {
 
 <div align="center">
 
-![GIF]([https://i.pinimg.com/originals/8f/08/cb/8f08cb463d771ea873c10fd0b2eba387.gif](https://cdna.artstation.com/p/assets/images/images/024/250/782/original/ivan-boyko-clouds-night-2.gif?1581803758))
+![GIF]([https://cdna.artstation.com/p/assets/images/images/024/250/782/original/ivan-boyko-clouds-night-2.gif?1581803758])
 
 </div>
