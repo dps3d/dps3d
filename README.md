@@ -32,7 +32,5 @@ const stack = {
 
 
 <div align="center">
-
-<img src="assets/neafetch2.vsg" alt="caat" width="999" />
-
+  <img src="assets/neofetch2.svg" alt="qwekva" width="100%" />
 </div>
