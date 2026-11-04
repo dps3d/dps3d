@@ -10,11 +10,16 @@
 
 <img src="https://skillicons.dev/icons?i=py,django,ts,js,nodejs,vite,cpp,arduino,postgres,mysql,git,linux,windows&theme=dark" alt="stack" />
 
-```bash
-$ cat stack.txt
-python django typescript javascript nodejs vite c++ arduino
-postgres mysql git linux windows
-+ payload-cms neon rest selenium pytest rfid-125khz spi/uart/i2c
+```ts
+const stack = {
+  languages: ["Python", "TypeScript", "JavaScript", "C++"],
+  backend:   ["Django", "Node.js", "Payload CMS", "REST"],
+  frontend:  ["Vite", "HTML", "CSS"],
+  databases: ["PostgreSQL (Neon)", "MariaDB", "MySQL"],
+  embedded:  ["ESP32", "Arduino", "RFID 125kHz", "SPI / UART / I2C"],
+  testing:   ["Selenium", "Pytest", "Django TestCase"],
+  tools:     ["Git", "Linux", "Windows"],
+} as const;
 ```
   
 </div>
