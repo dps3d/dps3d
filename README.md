@@ -12,6 +12,8 @@
 
 </div>
 
+<br/>
+
 ```ts
 const stack = {
   languages: ["Python", "TypeScript", "JavaScript", "C++"],
