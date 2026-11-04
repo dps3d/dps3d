@@ -35,4 +35,6 @@ const stack = {
 
 <img src="assets/ivan-boyko-clouds-night-2.gif" alt="clouds" width="999" />
 
+<img src="assets/cats_programmers.jpg" alt="clouds" width="999" />
+
 </div>
