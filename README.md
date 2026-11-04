@@ -4,7 +4,7 @@
 
 <sub>Python · Django · TypeScript · ESP32</sub>
 
-<br/><br/>
+<br/><br/>  
 
 <a href="https://www.linkedin.com/in/test"><img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://t.me/test"><img src="https://img.shields.io/badge/Telegram-181717?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -15,19 +15,13 @@
 
 <br/>
 
-### About
-
-Building full-stack apps with Django and TypeScript, and IoT devices on ESP32.
-Learning Payload CMS, Neon and microcontroller architectures.
-Interested in clean architecture, hardware–software integration and solid automated tests.
-Open to collaboration. Ask me about Django, TypeScript, Vite, ESP32 / C++, Selenium / Pytest.
-
+<div align="center">
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=py,django,ts,js,nodejs,vite,cpp,arduino,postgres,mariadb,git,linux&theme=dark" alt="stack" />
 
 <sub>Payload CMS · Neon · REST · Selenium · Pytest · RFID 125kHz · SPI / UART / I2C</sub>
-
+  
 ### Stats
 
 <p>
@@ -36,3 +30,4 @@ Open to collaboration. Ask me about Django, TypeScript, Vite, ESP32 / C++, Selen
 </p>
 
 <img src="https://streak-stats.demolab.com?user=dps3d&theme=transparent&hide_border=true&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" alt="Streak" />
+</div>
