@@ -4,6 +4,8 @@
 
 </div>
 
+
+
 <div align="center">
   
 ### Stack
@@ -11,6 +13,8 @@
 <img src="https://skillicons.dev/icons?i=py,django,ts,js,nodejs,vite,cpp,arduino,postgres,mysql,git,linux,windows&theme=dark" alt="stack" />
 
 </div>
+
+
 
 <br/>
 
@@ -29,6 +33,6 @@ const stack = {
 
 <div align="center">
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=o6jgk1o0qwrkioqq1idglihgs&width=500&album=1)
+![GIF]([https://i.pinimg.com/originals/8f/08/cb/8f08cb463d771ea873c10fd0b2eba387.gif](https://cdna.artstation.com/p/assets/images/images/024/250/782/original/ivan-boyko-clouds-night-2.gif?1581803758))
 
 </div>
