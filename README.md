@@ -4,6 +4,13 @@
 
 <br/>
 
+<div align="center">
+  <img src="assets/neofetch2.svg" alt="qwekva" width="100%" />
+</div>
+
+
+<br/>
+
 ```ts
 const stack = {
   languages: ["Python", "TypeScript", "JavaScript", "C++"],
@@ -16,14 +23,7 @@ const stack = {
 } as const;
 ```
 
-
-<div align="center">
-  <img src="assets/neofetch2.svg" alt="qwekva" width="100%" />
-</div>
-
-
 <br/>
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,django,ts,js,nodejs,vite,cpp,arduino,postgres,mysql,git,linux,windows&theme=dark" alt="stack" />
