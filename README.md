@@ -10,6 +10,8 @@
 
 <img src="https://skillicons.dev/icons?i=py,django,ts,js,nodejs,vite,cpp,arduino,postgres,mysql,git,linux,windows&theme=dark" alt="stack" />
 
+</div>
+
 ```ts
 const stack = {
   languages: ["Python", "TypeScript", "JavaScript", "C++"],
@@ -21,5 +23,3 @@ const stack = {
   tools:     ["Git", "Linux", "Windows"],
 } as const;
 ```
-  
-</div>
