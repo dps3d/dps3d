@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Top Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,35,46&height=200&section=header&text=Hi%20there,%20I'm%20Your%20Name%20👋&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,35,46&height=200&section=header&text=Hi%20there,%20I'm%20DPS3D%20👋&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
