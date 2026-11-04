@@ -16,6 +16,7 @@
 <br/>
 
 <div align="center">
+  
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=py,django,ts,js,nodejs,vite,cpp,arduino,postgres,mariadb,git,linux&theme=dark" alt="stack" />
