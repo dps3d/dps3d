@@ -33,6 +33,6 @@ const stack = {
 
 <div align="center">
 
-<img src="assets/ivan-boyko-clouds-night-2.gif" alt="clouds" width="700" />
+<img src="assets/ivan-boyko-clouds-night-2.gif" alt="clouds" width="999" />
 
 </div>
