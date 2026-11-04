@@ -25,4 +25,10 @@ const stack = {
   tools:     ["Git", "Linux", "Windows"],
 } as const;
 ```
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=o6jgk1o0qwrkioqq1idglihgs&width=700&album=1)
+
+
+<div align="center">
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=o6jgk1o0qwrkioqq1idglihgs&width=500&album=1)
+
+</div>
