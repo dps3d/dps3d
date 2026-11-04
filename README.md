@@ -10,6 +10,8 @@
 
 <img src="https://skillicons.dev/icons?i=py,django,ts,js,nodejs,vite,cpp,arduino,postgres,mysql,git,linux,windows&theme=dark" alt="stack" />
 
-<sub>Payload CMS · Neon · REST · Selenium · Pytest · RFID 125kHz · SPI / UART / I2C</sub>
+```ts
+// also: Payload CMS · Neon · REST · Selenium · Pytest · RFID 125kHz · SPI/UART/I2C
+```
   
 </div>
