@@ -18,7 +18,7 @@ const stack = {
   backend:   ["Django", "Node.js", "Payload CMS", "REST"],
   frontend:  ["Vite", "HTML", "CSS"],
   databases: ["PostgreSQL (Neon)", "MariaDB", "MySQL"],
-  embedded:  ["ESP32", "Arduino", "RFID 125kHz", "SPI / UART / I2C"],
+  embedded:  ["ESP32", "RaspberryPi", "SPI / UART / I2C"],
   testing:   ["Selenium", "Pytest", "Django TestCase"],
   tools:     ["Git", "Linux", "Windows"],
 } as const;
