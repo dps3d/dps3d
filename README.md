@@ -25,6 +25,3 @@ const stack = {
 
 <br/>
 
-<div align="center">
-  <img src="assets/ivan-boyko-clouds-night-2.gif" alt="gif" width="100%" />
-</div>
