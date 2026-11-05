@@ -22,6 +22,3 @@ const stack = {
   tools:     ["Git", "Linux", "Windows"],
 } as const;
 ```
-
-<br/>
-
