@@ -26,5 +26,5 @@ const stack = {
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,ts,js,nodejs,vite,cpp,arduino,postgres,mysql,git,linux,windows&theme=dark" alt="stack" />
+  <img src="assets/ivan-boyko-clouds-night-2.gif" alt="gif" width="100%" />
 </div>
