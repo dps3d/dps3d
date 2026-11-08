@@ -19,6 +19,6 @@ const stack = {
   databases: ["PostgreSQL (Neon)", "MariaDB", "MySQL"],
   embedded:  ["ESP32", "RaspberryPi", "SPI / UART / I2C"],
   testing:   ["Selenium", "Pytest", "Django TestCase"],
-  os:     ["macOs", "Linux", "Windows"],
+  tools:     ["Git", "Linux", "Windows"],
 } as const;
 ```
